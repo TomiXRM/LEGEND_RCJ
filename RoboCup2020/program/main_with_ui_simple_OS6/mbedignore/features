@@ -1,0 +1,12 @@
+;; this file is sample of framework-mbed/features/.mbedignore
+cellular/*
+netsocket/*
+cryptocell/*
+device_key/*
+lwipstack/*
+nanostack/*
+storage/*
+mbedtls/*
+lorawan/*
+frameworks/*
+nfc/*

@@ -1,0 +1,14 @@
+;; this file is sample of framework-mbed/drivers/.mbedignore
+;;source/usb/USBMSD*
+source/usb/ByteBuffer*
+source/usb/PolledQueue*
+source/usb/TaskBase*
+source/usb/USBAudio*
+source/usb/USBCDC_ECM*
+source/usb/USBHID*
+source/usb/USBKeyboard*
+source/usb/USBMIDI*
+source/usb/USBMSD*
+source/usb/USBMouse*
+source/usb/USBMouseKeyboard*
+source/CAN*
